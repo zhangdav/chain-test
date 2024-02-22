@@ -1,6 +1,6 @@
 # Myshell Testnet Smart Contract Initial Test
 
-https://github.com/Solidityarchitect/Chain-Test/blob/main/myshell-test/report-data/logo.jpeg?raw=true
+/Users/hosanna/chain-test/myshell-test/report-data/logo.jpeg
 
 Overall, the Myshell testnet runs reliably, with fast transaction confirmations and reasonable gas usage. These transactions provide confidence in the deployment and functionality of the TestToken smart contract, demonstrating that it behaves as expected for basic operations such as testnet transfers and approvals. Further testing, including edge cases and failure modes, is recommended before any mainnet deployment for a thorough assessment.
 
